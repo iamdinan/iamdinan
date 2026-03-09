@@ -26,23 +26,8 @@ Computing undergrad, mostly busy with studies. Into building things every now an
 
 ---
 
-## Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [DamagedPhotoRestorer](https://github.com/iamdinan/DamagedPhotoRestorer) | Restores damaged photos using image processing | Python |
-| [Florance](https://github.com/iamdinan/Florance) | E-Commerce website for a flower shop | JavaScript |
-| [gliZZard](https://github.com/iamdinan/gliZZard) | Online shopping & management for a games store | PHP |
-| [LionCafe](https://github.com/iamdinan/LionCafe) | Ordering and management system for a restaurant | C# |
-| [P2P-Chat-Application](https://github.com/iamdinan/P2P-Chat-Application) | Secure peer-to-peer chat application | Python |
-| [RestaurantManagementApplication](https://github.com/iamdinan/RestaurantManangementApplicaton) | Internal restaurant management system | Java |
-
----
-
 ## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamdinan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdinan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
