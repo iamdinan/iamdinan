@@ -26,6 +26,14 @@ Computing undergrad, mostly busy with studies. Into building things every now an
 
 ---
 
+## Latest Projects
+
+**[Moviq](https://moviq-gtm.vercel.app/)** &nbsp;·&nbsp; Guess the movie from 3 clues — powered by TMDB
+
+**[Sonus](https://sonus-music-recommender.vercel.app)** &nbsp;·&nbsp; Music recommendation app
+
+---
+
 ## GitHub Stats
 
 <p align="center">
