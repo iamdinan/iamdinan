@@ -38,4 +38,6 @@ Computing undergrad, mostly busy with studies. Into building things every now an
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamdinan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdinan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
