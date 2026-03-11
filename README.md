@@ -1,7 +1,7 @@
 <h1 align="center">Dinan Dilmith</h1>
 
 <p align="center">
-  Computing Undergraduate &nbsp;·&nbsp; Sri Lanka
+  Computing Undergraduate
 </p>
 
 ---
