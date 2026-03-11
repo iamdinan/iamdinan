@@ -8,7 +8,7 @@
 
 ## About
 
-Computing undergrad, mostly busy with studies. Into building things every now and then — and when I'm not, probably gaming, listening to music, or watching something.
+Mostly on my laptop. Build stuff when the mood hits — and when I'm not, probably gaming, listening to music, or watching something.
 
 ---
 
