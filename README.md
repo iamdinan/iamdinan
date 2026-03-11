@@ -8,7 +8,7 @@
 
 ## About
 
-Mostly on my laptop. Build stuff when the mood hits — and when I'm not, probably gaming, listening to music, or watching something.
+Mostly on my laptop, build stuff when the mood hits — and when I'm not, probably gaming, listening to music, or watching something.
 
 ---
 
