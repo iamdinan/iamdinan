@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-   - cron: '*/5 * * * *'  # runs every 5 minutes
+   - cron: '30 18 * * *'  # 12:00 AM Sri Lanka time (UTC+5:30)
   workflow_dispatch:
 
 jobs:
