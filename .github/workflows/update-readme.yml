@@ -5,12 +5,11 @@ on:
    - cron: '30 18 * * *'  # 12:00 AM Sri Lanka time (UTC+5:30)
   workflow_dispatch:
   
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
 
