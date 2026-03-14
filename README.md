@@ -35,5 +35,5 @@ Mostly on my laptop, build stuff when the mood hits — and when I'm not, probab
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamdinan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iamdinan&theme=tokyonight&hide_border=true&t=20260314" alt="GitHub Streak" />
 </p>
