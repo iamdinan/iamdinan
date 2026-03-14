@@ -2,9 +2,12 @@ name: Update README
 
 on:
   schedule:
-   - cron: '30 18 * * *'  # 12:00 AM Sri Lanka time (UTC+5:30)
+    - cron: "30 18 * * *" # 12:00 AM Sri Lanka time (UTC+5:30)
   workflow_dispatch:
-  
+
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -12,16 +15,25 @@ jobs:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Update cache-bust timestamp
+        env:
+          TZ: Asia/Colombo
         run: |
           DATE=$(date +%Y%m%d)
-          sed -i "s/&t=[0-9]*/\&t=$DATE/" README.md
+          sed -i -E "s/([?&]t=)[0-9]+/\1$DATE/" README.md
 
       - name: Commit and push
         run: |
+          if git diff --quiet -- README.md; then
+            echo "No README changes to commit"
+            exit 0
+          fi
+
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
-          git commit -m "chore: update streak stats timestamp" || echo "No changes"
-          git push
+          git commit -m "chore: update streak stats timestamp"
+          git push origin HEAD:${GITHUB_REF_NAME}
