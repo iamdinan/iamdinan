@@ -1,7 +1,5 @@
-<h1 align="center">Dinan Dilmith</h1>
-
 <p align="center">
-  Computing Undergraduate
+  <img src="https://wallpaperaccess.com/full/8406763.gif" alt="banner" width="100%"/>
 </p>
 
 ---
