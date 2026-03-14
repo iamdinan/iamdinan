@@ -1,0 +1,25 @@
+name: Update README
+
+on:
+  schedule:
+   - cron: '*/5 * * * *'  # runs every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update cache-bust timestamp
+        run: |
+          DATE=$(date +%Y%m%d)
+          sed -i "s/&t=[0-9]*/\&t=$DATE/" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "chore: update streak stats timestamp" || echo "No changes"
+          git push
