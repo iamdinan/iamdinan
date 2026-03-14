@@ -22,8 +22,8 @@ jobs:
         env:
           TZ: Asia/Colombo
         run: |
-          DATE=$(date +%Y%m%d)
-          sed -i -E "s/([?&]t=)[0-9]+/\1$DATE/" README.md
+          TIMESTAMP=$(date +%Y%m%d%H%M)
+          sed -i -E "s/([?&]t=)[0-9]+/\1$TIMESTAMP/" README.md
 
       - name: Commit and push
         run: |
@@ -32,8 +32,8 @@ jobs:
             exit 0
           fi
 
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "Dinan Dilmith"
+          git config user.email "118002808+iamdinan@users.noreply.github.com"
           git add README.md
           git commit -m "chore: update streak stats timestamp"
           git push origin HEAD:${GITHUB_REF_NAME}
