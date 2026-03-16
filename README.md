@@ -14,6 +14,12 @@ Mostly on my laptop, build stuff when the mood hits — and when I'm not, probab
 
 ---
 
+
+[![An image of @iamdinan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamdinan)](https://holopin.io/@iamdinan)
+
+---
+
+
 ## Latest Projects
 **[Moviq](https://moviq-gtm.vercel.app/)** &nbsp;·&nbsp; Guess the movie from 3 clues — powered by TMDB
 
