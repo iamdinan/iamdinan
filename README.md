@@ -10,7 +10,7 @@ Mostly on my laptop, build stuff when the mood hits — and when I'm not, probab
 ---
 
 ## Tech Stack
-![](https://skillicons.dev/icons?i=python,js,react,vite,bootstrap,tailwind,nodejs,express,fastapi,vitest)
+![](https://skillicons.dev/icons?i=python,js,react,vite,bootstrap,tailwind,nodejs,express,fastapi,mysql,vitest)
 
 ---
 
