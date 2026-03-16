@@ -16,7 +16,6 @@ Mostly on my laptop, build stuff when the mood hits — and when I'm not, probab
 
 ## Latest Projects
 **[Moviq](https://moviq-gtm.vercel.app/)** &nbsp;·&nbsp; Guess the movie from 3 clues — powered by TMDB
-
 **[Sonus](https://sonus-music-recommender.vercel.app)** &nbsp;·&nbsp; Music recommendation app
 
 ---
