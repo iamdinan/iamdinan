@@ -29,7 +29,6 @@ Mostly on my laptop💻, build stuff when the mood hits😶‍🌫️ — and wh
 <br>
 
 [![An image of @iamdinan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamdinan)](https://holopin.io/@iamdinan)
-[![Cisco Badge](https://images.credly.com/size/150x150/badges/0fb00697-644c-4f1d-817c-3d1b587ea08b/image.png)](https://www.credly.com/badges/0fb00697-644c-4f1d-817c-3d1b587ea08b)
 
 </details>
 
