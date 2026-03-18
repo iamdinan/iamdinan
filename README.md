@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/gallery/animated-pixel-art-that-soothes-soul-8a66g" alt="banner" width="100%"/>
+  <img src="https://i.imgur.com/gBxP6oJ.gif" alt="banner" width="100%"/>
 </p>
 
 <details>
