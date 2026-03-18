@@ -3,6 +3,8 @@
   <img src="./retro.gif" alt="banner" width="100%"/>
 </p>
 
+---
+
 <!-- About -->
 <details>
 <summary>𝙰𝙱𝙾𝚄𝚃 💬</summary>
