@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=57C7FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Dinan+%F0%9F%91%8B;Building+stuff+when+the+mood+hits...;Probably+gaming+or+watching+something+%F0%9F%8D%BF" alt="Typing SVG" />
+</p>
+
 <!-- Banner -->
 <p align="center">
   <img src="./retro.gif" alt="banner" width="100%"/>
