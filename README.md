@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/1711593.gif" alt="banner" width="100%" height="280" style="object-fit:cover;border-radius:8px"/>
+  <img src="https://wallpaperaccess.com/full/1711593.gif" alt="banner" width="100%" height="400" style="object-fit:cover;border-radius:8px"/>
 </p>
 
 <!-- About -->
