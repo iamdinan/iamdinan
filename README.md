@@ -1,11 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hello+there%2C+I'm+Dinan+%F0%9F%91%8B;CS+undergraduate;Mostly+build+stuff+for+fun." alt="Typing SVG" />
-</p>
-
-<!-- Banner -->
-<p align="center">
-  <img src="./retro.gif" alt="banner" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+Dinan+!;Computing+Undergraduate.;Testing+Advocate.;Build+Stuff+Sometimes." alt="Typing SVG" />
 </p>
 
 ---
@@ -15,6 +10,11 @@
 <summary>𝙰𝙱𝙾𝚄𝚃 💬</summary>
 <br>
 Mostly on my laptop 💻, build stuff when the mood hits 😶‍🌫️ — and when I'm not, probably gaming 🎮, listening to music 🎧, or watching something 🍿.
+
+  <!-- Banner -->
+<p align="center">
+  <img src="./retro.gif" alt="banner" width="100%"/>
+</p>
 </details>
 
 
