@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/gBxP6oJ.gif" alt="banner" width="100%"/>
+  <img src="https://wallpaperaccess.com/full/1711593.gif" alt="banner" width="100%"/>
 </p>
 
 <details>
