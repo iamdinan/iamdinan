@@ -5,30 +5,36 @@
 
 <!-- About -->
 <details>
-<summary>About 💬</summary>
+<summary>𝙰𝙱𝙾𝚄𝚃 💬</summary>
 <br>
 Mostly on my laptop 💻, build stuff when the mood hits 😶‍🌫️ — and when I'm not, probably gaming 🎮, listening to music 🎧, or watching something 🍿.
 </details>
 
+<p align="center">··· ✦ ···</p>
+
 <!-- Tech Stack -->
 <details>
-<summary>Tech Stack 🔧</summary>
+<summary>𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 🔧</summary>
 <br>
 
 ![](https://skillicons.dev/icons?i=python,js,react,vite,bootstrap,tailwind,nodejs,express,fastapi,mysql,vitest)
 </details>
 
+<p align="center">··· ✦ ···</p>
+
 <!-- Holopin -->
 <details>
-<summary>Holopin Dashboard 🎖️</summary>
+<summary>𝙷𝙾𝙻𝙾𝙿𝙸𝙽 𝙳𝙰𝚂𝙷𝙱𝙾𝙰𝚁𝙳 🎖️</summary>
 <br>
 
 [![An image of @iamdinan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamdinan)](https://holopin.io/@iamdinan)
 </details>
 
+<p align="center">··· ✦ ···</p>
+
 <!-- Projects -->
 <details>
-<summary>Latest Projects 🔭</summary>
+<summary>𝙻𝙰𝚃𝙴𝚂𝚃 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂 🔭</summary>
 <br>
 
 **[Moviq](https://moviq-gtm.vercel.app/)** &nbsp;·&nbsp; Guess the movie from 3 clues — powered by TMDB
@@ -36,9 +42,11 @@ Mostly on my laptop 💻, build stuff when the mood hits 😶‍🌫️ — and 
 **[Sonus](https://sonus-music-recommender.vercel.app)** &nbsp;·&nbsp; Music recommendation app
 </details>
 
+<p align="center">··· ✦ ···</p>
+
 <!-- GitHub Stats -->
 <details>
-<summary>GitHub Stats 📈</summary>
+<summary>𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 📈</summary>
 <br>
 
 <p align="center">
