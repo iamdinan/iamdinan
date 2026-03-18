@@ -1,12 +1,13 @@
+<p align="center">
+  <img src="https://wallpaperaccess.com/full/1711593.gif" alt="banner" width="100%"/>
+</p>
+
 <details>
 <summary>About💬</summary>
 <br>
 
 Mostly on my laptop💻, build stuff when the mood hits😶‍🌫️ — and when I'm not, probably gaming🎮, listening to music🎧, or watching something🍿.
 
-<p align="center">
-  <img src="https://wallpaperaccess.com/full/6364919.gif" alt="banner" width="100%"/>
-</p>
 
 </details>
 
