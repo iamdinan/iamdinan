@@ -10,7 +10,6 @@
 Mostly on my laptop 💻, build stuff when the mood hits 😶‍🌫️ — and when I'm not, probably gaming 🎮, listening to music 🎧, or watching something 🍿.
 </details>
 
-<p align="center">··· ✦ ···</p>
 
 <!-- Tech Stack -->
 <details>
@@ -20,7 +19,6 @@ Mostly on my laptop 💻, build stuff when the mood hits 😶‍🌫️ — and 
 ![](https://skillicons.dev/icons?i=python,js,react,vite,bootstrap,tailwind,nodejs,express,fastapi,mysql,vitest)
 </details>
 
-<p align="center">··· ✦ ···</p>
 
 <!-- Holopin -->
 <details>
@@ -29,8 +27,6 @@ Mostly on my laptop 💻, build stuff when the mood hits 😶‍🌫️ — and 
 
 [![An image of @iamdinan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamdinan)](https://holopin.io/@iamdinan)
 </details>
-
-<p align="center">··· ✦ ···</p>
 
 <!-- Projects -->
 <details>
@@ -42,7 +38,6 @@ Mostly on my laptop 💻, build stuff when the mood hits 😶‍🌫️ — and 
 **[Sonus](https://sonus-music-recommender.vercel.app)** &nbsp;·&nbsp; Music recommendation app
 </details>
 
-<p align="center">··· ✦ ···</p>
 
 <!-- GitHub Stats -->
 <details>
