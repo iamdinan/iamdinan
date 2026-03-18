@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3bf11a8a-c6c8-49be-8fdf-017dcc152a49/dhbmxis-4a06b8af-4f8c-44b3-9a59-f8ecbbf8c07c.gif" style="object-fit:cover;border-radius:8px"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3bf11a8a-c6c8-49be-8fdf-017dcc152a49/dhbmxis-4a06b8af-4f8c-44b3-9a59-f8ecbbf8c07c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8zYmYxMWE4YS1jNmM4LTQ5YmUtOGZkZi0wMTdkY2MxNTJhNDkvZGhibXhpcy00YTA2YjhhZi00ZjhjLTQ0YjMtOWE1OS1mOGVjYmJmOGMwN2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a_fFspR-l0FZa7KH0EbeTrRQu2LlMw1tIvSoejRmBZk" style="object-fit:cover;border-radius:8px"/>
 </p>
 
 <!-- About -->
