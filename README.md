@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1e/49/c5/1e49c591e192e09c8ff3ab7fe986b82f.gif" alt="banner" width="100%" height="400" style="object-fit:cover;border-radius:8px"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3bf11a8a-c6c8-49be-8fdf-017dcc152a49/dhbmxis-4a06b8af-4f8c-44b3-9a59-f8ecbbf8c07c.gif" style="object-fit:cover;border-radius:8px"/>
 </p>
 
 <!-- About -->
