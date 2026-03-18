@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./futuristic-balco.gif" alt="banner" width="100%"/>
+  <img src="./futuristic-balco.gif" alt="banner" width="100%" height=400px/>
 </p>
 
 <!-- About -->
