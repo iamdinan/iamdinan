@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f9718d157bfd0ae30449b96e6066688a-1720445946/BRB/make-a-pixel-art-in-cyberpunk-or-japanese-style-animated.gif" alt="banner" width="100%"/>
+  <img src="https://cdnb.artstation.com/p/assets/images/images/045/729/537/original/tong-wei-lofii-n-4.gif?1643382324" alt="banner" width="100%"/>
 </p>
 
 <!-- About -->
