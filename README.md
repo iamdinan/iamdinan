@@ -10,7 +10,6 @@ Mostly on my laptop💻, build stuff when the mood hits😶‍🌫️ — and wh
 
 </details>
 
----
 
 <details>
 <summary>Tech Stack🔧</summary>
@@ -20,7 +19,6 @@ Mostly on my laptop💻, build stuff when the mood hits😶‍🌫️ — and wh
 
 </details>
 
----
 
 <details>
 <summary>Holopin Dashboard🎖️</summary>
@@ -30,7 +28,6 @@ Mostly on my laptop💻, build stuff when the mood hits😶‍🌫️ — and wh
 
 </details>
 
----
 
 <details>
 <summary>Latest Projects🔭</summary>
@@ -42,7 +39,6 @@ Mostly on my laptop💻, build stuff when the mood hits😶‍🌫️ — and wh
 
 </details>
 
----
 
 <details>
 <summary>GitHub Stats📈</summary>
