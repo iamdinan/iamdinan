@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/6acd0780a4c693b2cf8da52b5c44b18e/tumblr_oywrflm7jI1sgm6puo1_640.gifv" alt="banner" width="100%"/>
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f9718d157bfd0ae30449b96e6066688a-1720445946/BRB/make-a-pixel-art-in-cyberpunk-or-japanese-style-animated.gif" alt="banner" width="100%"/>
 </p>
 
 <!-- About -->
