@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FF4444&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+Dinan+!;Computing+Undergraduate.;Testing+Advocate.;Build+Stuff+Sometimes." alt="Typing SVG" />
 </p>
 
