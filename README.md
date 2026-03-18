@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/045/729/537/original/tong-wei-lofii-n-4.gif?1643382324" alt="banner" width="100%"/>
+  <img src="https://cdnb.artstation.com/p/assets/images/images/045/729/537/original/tong-wei-lofii-n-4.gif" alt="banner" width="100%"/>
 </p>
 
 <!-- About -->
