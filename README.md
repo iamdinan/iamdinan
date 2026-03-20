@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=300&speed=10&color=FF4444&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+Dinan+!;CS+Undergraduate.;Profile+Curator.;Occasionally+Ship+Projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=300&speed=45&color=FF4444&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+Dinan+!;CS+Undergraduate.;Profile+Curator.;Occasionally+Ship+Projects." alt="Typing SVG" />
 </p>
 
 <!-- Banner -->
