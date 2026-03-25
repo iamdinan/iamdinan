@@ -64,6 +64,6 @@ Mostly on my laptop 💻, build stuff when the mood hits 😶‍🌫️ — and 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamdinan&theme=tokyonight&hide_border=true&r=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iamdinan&theme=tokyonight&hide_border=true&r=11" alt="GitHub Streak" />
 </p>
 </details>
