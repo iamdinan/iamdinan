@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
-    font=Press+Start+2P&size=16&pause=300&color=FF4444&center=true&vCenter=true&width=600&lines=Hello+There+!" alt="Typing SVG" />
+    font=Press+Start+2P&size=16&pause=300&color=FF4444&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+Dinan+!." alt="Typing SVG" />
 </p>
 
 <!-- Banner -->
