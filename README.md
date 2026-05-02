@@ -11,6 +11,13 @@
 --- -->
 
 <!-- About -->
+<details>
+<summary> Intentions 💭</summary>
+  
+<br>
+
+Somewhere between learning and meaning — drawn to work that holds up in craft and conscience.
+</details>
 
 
 <!-- Tech Stack -->
