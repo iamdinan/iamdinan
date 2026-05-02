@@ -5,7 +5,7 @@
 
 <!-- About -->
 <details>
-<summary><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=18&pause=1000&color=ffffff&width=200&lines=Intentions+💭" alt="Intentions 💭" /></summary>
+<summary>Intentions 💭</summary>
   
 <br>
 <i>"Somewhere between learning and meaning — drawn to work that holds up in craft and conscience."</i>
@@ -13,7 +13,7 @@
 
 <!-- Tech Stack -->
 <details>
-<summary><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=18&pause=1000&color=ffffff&width=200&lines=Tech+Stack+🔧" alt="Tech Stack 🔧" /></summary>
+<summary>Tech Stack 🔧</summary>
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,7 +32,7 @@
 
 <!-- Projects -->
 <details>
-<summary><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=18&pause=1000&color=ffffff&width=250&lines=Latest+Projects+🔭" alt="Latest Projects 🔭" /></summary>
+<summary>Latest Projects 🔭</summary>
 <br>
 
 **[Moviq](https://moviq-gtm.vercel.app/)** &nbsp;·&nbsp; Guess the movie from 3 clues — powered by TMDB
@@ -42,7 +42,7 @@
 
 <!-- GitHub Stats -->
 <details>
-<summary><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=18&pause=1000&color=ffffff&width=220&lines=GitHub+Stats+📈" alt="GitHub Stats 📈" /></summary>
+<summary>GitHub Stats 📈</summary>
 <br>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamdinan&theme=tokyonight&hide_border=true&r=11" alt="GitHub Streak" />
