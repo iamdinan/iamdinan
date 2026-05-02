@@ -7,9 +7,12 @@
 <details>
   <summary>𝑰𝒏𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒔 💭</summary>
   <br>
-  <img src="./cat.gif"/>
-  <br>
-  <i>&nbsp;&nbsp;"Somewhere between learning and meaning — drawn to work that holds up..."</i>
+  <p align="center">
+    <img src="./cat.gif" width="100%" />
+  </p>
+  <p align="right">
+    <i>"Somewhere between learning and meaning — drawn to work that holds up..."</i>
+  </p>
 </details>
 
 <!-- Tech Stack -->
