@@ -7,7 +7,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=First+solve+the+problem+then+write+the+code" alt="Dev Quote"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Kosugi+Maru&size=16&pause=100&color=FF4444&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81" alt="Typing SVG" />
     </td>
     <td width="50%" align="center">
       <img src="https://i.imgur.com/6Cgq2tW.gif" alt="banner" width="100%"/>
