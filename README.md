@@ -31,14 +31,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
-
-<!-- Holopin -->
-<!-- <details>
-<summary>𝙷𝙾𝙻𝙾𝙿𝙸𝙽 𝙳𝙰𝚂𝙷𝙱𝙾𝙰𝚁𝙳 🎖️</summary>
-<br> -->
-
-[![An image of @iamdinan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamdinan)](https://holopin.io/@iamdinan)
-</details>
+---
 
 <!-- Projects -->
 <summary align="center">𝙻𝙰𝚃𝙴𝚂𝚃 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂 🔭</summary>
@@ -47,6 +40,8 @@
 **[Moviq](https://moviq-gtm.vercel.app/)** &nbsp;·&nbsp; Guess the movie from 3 clues — powered by TMDB
 
 **[Sonus](https://sonus-music-recommender.vercel.app)** &nbsp;·&nbsp; Music recommender app
+
+---
 
 
 <!-- GitHub Stats -->
