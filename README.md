@@ -10,7 +10,7 @@
   <p align="center">
     <img src="./cat.gif" width="60%" />
   </p>
-  <p align="right">
+  <p align="center">
     <i>"Somewhere between learning and meaning — drawn to work that holds up..."</i>
   </p>
 </details>
