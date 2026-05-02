@@ -7,7 +7,7 @@
 <details>
   <summary>Intentions 💭</summary>
   <br>
-  <i>&nbsp;&nbsp;"Somewhere between learning and meaning — drawn to work that holds up in craft and conscience."</i>
+  <i>&nbsp;&nbsp;"Somewhere between learning and meaning — drawn to work that holds up..."</i>
 </details>
 
 <!-- Tech Stack -->
