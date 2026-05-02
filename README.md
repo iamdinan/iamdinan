@@ -5,7 +5,7 @@
 
 <!-- About -->
 <details>
-  <summary>𝑷𝒖𝒓𝒑𝒐𝒔𝒆 🧭</summary>
+  <summary>𝑷𝒖𝒓𝒑𝒐𝒔𝒆 💭</summary>
   <br>
   <p align="center">
     <img src="./cat.gif" width="50%" />
