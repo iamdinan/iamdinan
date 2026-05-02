@@ -35,12 +35,12 @@
 
 
 <!-- Holopin -->
-<details>
+<!-- <details>
 <summary>𝙷𝙾𝙻𝙾𝙿𝙸𝙽 𝙳𝙰𝚂𝙷𝙱𝙾𝙰𝚁𝙳 🎖️</summary>
 <br>
 
 [![An image of @iamdinan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamdinan)](https://holopin.io/@iamdinan)
-</details>
+</details> -->
 
 <!-- Projects -->
 <details>
