@@ -14,7 +14,8 @@
 
 
 <!-- Tech Stack -->
-<summary align="center">𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 🔧</summary>
+<details>
+<summary>𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 🔧</summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,25 +31,34 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+</details>
 
----
+
+<!-- Holopin -->
+<details>
+<summary>𝙷𝙾𝙻𝙾𝙿𝙸𝙽 𝙳𝙰𝚂𝙷𝙱𝙾𝙰𝚁𝙳 🎖️</summary>
+<br>
+
+[![An image of @iamdinan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamdinan)](https://holopin.io/@iamdinan)
+</details>
 
 <!-- Projects -->
-<summary align="center">𝙻𝙰𝚃𝙴𝚂𝚃 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂 🔭</summary>
+<details>
+<summary>𝙻𝙰𝚃𝙴𝚂𝚃 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂 🔭</summary>
 <br>
 
 **[Moviq](https://moviq-gtm.vercel.app/)** &nbsp;·&nbsp; Guess the movie from 3 clues — powered by TMDB
 
 **[Sonus](https://sonus-music-recommender.vercel.app)** &nbsp;·&nbsp; Music recommender app
-
----
+</details>
 
 
 <!-- GitHub Stats -->
-
-<summary align="center">𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 📈</summary>
+<details>
+<summary>𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 📈</summary>
 <br>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamdinan&theme=tokyonight&hide_border=true&r=11" alt="GitHub Streak" />
 </p>
+</details>
