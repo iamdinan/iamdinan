@@ -14,7 +14,7 @@
 <details>
 <summary>𝙰𝙱𝙾𝚄𝚃 💬</summary>
 <br>
-Nothing much, im here when the mood hits🤷‍♂️.
+Nothing much, I'm a computing undergraduate🎓 and visit here when the mood hits🤷‍♂️.
 </details>
 
 
