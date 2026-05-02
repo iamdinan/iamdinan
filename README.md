@@ -12,7 +12,7 @@
 
 <!-- Tech Stack -->
 <details>
-  <summary>Tech Stack 🔧</summary>
+  <summary>𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 🔧</summary>
 
   <br>
 
@@ -33,7 +33,7 @@
 
 <!-- Projects -->
 <details>
-  <summary>Latest Projects 🔭</summary>
+  <summary>𝑳𝒂𝒕𝒆𝒔𝒕 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 🔭</summary>
 
   <br>
 
@@ -44,7 +44,7 @@
 
 <!-- GitHub Stats -->
 <details>
-  <summary>GitHub Stats 📈</summary>
+  <summary>𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 📈</summary>
   <br>
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=iamdinan&theme=tokyonight&hide_border=true&r=11" alt="GitHub Streak" />
