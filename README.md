@@ -5,7 +5,7 @@
 
 <!-- About -->
 <details>
-  <summary>𝑰𝒏𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒔 💭</summary>
+  <summary>A Stance 💭</summary>
   <br>
   <p align="center">
     <img src="./cat.gif" width="50%" />
