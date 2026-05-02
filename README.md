@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/6Cgq2tW.gif" alt="banner" width="50%"/>
+  <img src="https://i.imgur.com/6Cgq2tW.gif" alt="banner" width="70%"/>
 </p>
 
 ---
