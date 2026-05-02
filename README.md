@@ -4,11 +4,11 @@
 </p>
 
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="./retro.gif" alt="banner" width="100%"/>
 </p>
 
----
+--- -->
 
 <!-- About -->
 
