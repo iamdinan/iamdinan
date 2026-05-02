@@ -14,7 +14,7 @@
 <details>
 <summary>𝙰𝙱𝙾𝚄𝚃 💬</summary>
 <br>
-Mostly on my laptop 💻, build stuff when the mood hits 😶‍🌫️ — and when I'm not, probably gaming 🎮, listening to music 🎧, or watching something 🍿.
+Nothing much, im here when the mood hits.
 </details>
 
 
