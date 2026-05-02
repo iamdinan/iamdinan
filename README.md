@@ -9,7 +9,7 @@
   
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<i>"Somewhere between learning and meaning — drawn to work that holds up in craft and conscience."</i>
+<i>         "Somewhere between learning and meaning — drawn to work that holds up in craft and conscience."</i>
 </details>
 
 <!-- Tech Stack -->
