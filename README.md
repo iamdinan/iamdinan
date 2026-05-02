@@ -11,7 +11,7 @@
     <img src="./cat.gif" width="50%" />
   </p>
   <p align="center">
-    <i>" Somewhere between learning and meaning — drawn to work that holds up... "</i>
+    <i>"Somewhere between learning and meaning — drawn to work that holds up🌒"</i>
   </p>
 </details>
 
