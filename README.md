@@ -14,8 +14,7 @@
 
 
 <!-- Tech Stack -->
-<details>
-𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 🔧
+<summary>𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 🔧</summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +30,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-</details>
 
 
 <!-- Holopin -->
