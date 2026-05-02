@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="./futuristic-balco.gif" alt="banner" width="100%"/>
+  <img src="./retro.gif" alt="banner" width="100%"/>
 </p>
 
 ---
