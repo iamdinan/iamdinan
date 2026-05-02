@@ -14,7 +14,7 @@
 <details>
 <summary>𝙰𝙱𝙾𝚄𝚃 💬</summary>
 <br>
-Computing Undergraduate🎓  |  I'm here when the mood hits🤷‍♂️.
+Computing Undergraduate🎓&nbsp&nbsp|&nbsp&nbspI'm here when the mood hits🤷‍♂️.
 </details>
 
 
