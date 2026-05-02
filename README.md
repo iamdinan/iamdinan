@@ -3,28 +3,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Kosugi+Maru&size=16&pause=100&color=FF4444&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%3BHello+!" alt="Typing SVG" />
 </p>
 
-<!-- Banner -->
-<!-- <p align="center">
-  <img src="./retro.gif" alt="banner" width="100%"/>
-</p>
-
---- -->
-
 <!-- About -->
 <details>
-<summary> Intentions 💭</summary>
+<summary><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=18&pause=1000&color=ffffff&width=200&lines=Intentions+💭" alt="Intentions 💭" /></summary>
   
 <br>
-
-Somewhere between learning and meaning — drawn to work that holds up in craft and conscience.
+<i>"Somewhere between learning and meaning — drawn to work that holds up in craft and conscience."</i>
 </details>
-
 
 <!-- Tech Stack -->
 <details>
-<summary>𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 🔧</summary>
+<summary><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=18&pause=1000&color=ffffff&width=200&lines=Tech+Stack+🔧" alt="Tech Stack 🔧" /></summary>
 <br>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,18 +30,9 @@ Somewhere between learning and meaning — drawn to work that holds up in craft 
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 </details>
 
-
-<!-- Holopin -->
-<!-- <details>
-<summary>𝙷𝙾𝙻𝙾𝙿𝙸𝙽 𝙳𝙰𝚂𝙷𝙱𝙾𝙰𝚁𝙳 🎖️</summary>
-<br>
-
-[![An image of @iamdinan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamdinan)](https://holopin.io/@iamdinan)
-</details> -->
-
 <!-- Projects -->
 <details>
-<summary>𝙻𝙰𝚃𝙴𝚂𝚃 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂 🔭</summary>
+<summary><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=18&pause=1000&color=ffffff&width=250&lines=Latest+Projects+🔭" alt="Latest Projects 🔭" /></summary>
 <br>
 
 **[Moviq](https://moviq-gtm.vercel.app/)** &nbsp;·&nbsp; Guess the movie from 3 clues — powered by TMDB
@@ -59,12 +40,10 @@ Somewhere between learning and meaning — drawn to work that holds up in craft 
 **[Sonus](https://sonus-music-recommender.vercel.app)** &nbsp;·&nbsp; Music recommender app
 </details>
 
-
 <!-- GitHub Stats -->
 <details>
-<summary>𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 📈</summary>
+<summary><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=18&pause=1000&color=ffffff&width=220&lines=GitHub+Stats+📈" alt="GitHub Stats 📈" /></summary>
 <br>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamdinan&theme=tokyonight&hide_border=true&r=11" alt="GitHub Streak" />
 </p>
