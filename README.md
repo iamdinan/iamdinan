@@ -15,7 +15,7 @@
 
 <!-- Tech Stack -->
 <details>
-<summary>𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 🔧</summary>
+𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 🔧
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
