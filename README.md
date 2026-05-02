@@ -8,7 +8,7 @@
   <summary>𝑰𝒏𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒔 💭</summary>
   <br>
   <p align="center">
-    <img src="./cat.gif" width="50%" />
+    <img src="./cat.gif" width="70%" />
   </p>
   <p align="right">
     <i>"Somewhere between learning and meaning — drawn to work that holds up..."</i>
