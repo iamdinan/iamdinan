@@ -33,30 +33,27 @@
 
 
 <!-- Holopin -->
-<details>
+<!-- <details>
 <summary>𝙷𝙾𝙻𝙾𝙿𝙸𝙽 𝙳𝙰𝚂𝙷𝙱𝙾𝙰𝚁𝙳 🎖️</summary>
-<br>
+<br> -->
 
 [![An image of @iamdinan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamdinan)](https://holopin.io/@iamdinan)
 </details>
 
 <!-- Projects -->
-<details>
-<summary>𝙻𝙰𝚃𝙴𝚂𝚃 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂 🔭</summary>
+<summary align="center">𝙻𝙰𝚃𝙴𝚂𝚃 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂 🔭</summary>
 <br>
 
 **[Moviq](https://moviq-gtm.vercel.app/)** &nbsp;·&nbsp; Guess the movie from 3 clues — powered by TMDB
 
 **[Sonus](https://sonus-music-recommender.vercel.app)** &nbsp;·&nbsp; Music recommender app
-</details>
 
 
 <!-- GitHub Stats -->
-<details>
-<summary>𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 📈</summary>
+
+<summary align="center">𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 📈</summary>
 <br>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iamdinan&theme=tokyonight&hide_border=true&r=11" alt="GitHub Streak" />
 </p>
-</details>
