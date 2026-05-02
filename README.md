@@ -14,7 +14,7 @@
 <details>
 <summary>𝙰𝙱𝙾𝚄𝚃 💬</summary>
 <br>
-Nothing much, im here when the mood hits.
+Nothing much, im here when the mood hits🤷.
 </details>
 
 
