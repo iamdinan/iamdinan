@@ -14,8 +14,8 @@
 <details>
 <summary>𝙰𝙱𝙾𝚄𝚃 💬</summary>
 <br>
-Nothing much, I'm a computing undergraduate🎓 and visit here when the mood hits🤷‍♂️.
-</details>
+Nothing much, I'm here when the mood hits🤷‍♂️.
+</details>z
 
 
 <!-- Tech Stack -->
