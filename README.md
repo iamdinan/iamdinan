@@ -4,11 +4,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamdinan&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-
 <!-- About -->
 <details>
   <summary>𝑷𝒖𝒓𝒑𝒐𝒔𝒆 💭</summary>
@@ -20,6 +15,7 @@
     <i>"Somewhere between learning and meaning — drawn to work that holds up."</i>
   </p>
 </details>
+
 
 <!-- Tech Stack -->
 <details>
@@ -41,6 +37,7 @@
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 </details>
+
 
 <!-- Projects -->
 <details>
