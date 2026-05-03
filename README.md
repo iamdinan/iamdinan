@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Kosugi+Maru&size=16&pause=100&color=FF4444&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%3BHello+!" alt="Typing SVG" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamdinan&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+
 <!-- About -->
 <details>
   <summary>𝑷𝒖𝒓𝒑𝒐𝒔𝒆 💭</summary>
