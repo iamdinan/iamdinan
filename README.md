@@ -19,7 +19,7 @@
 
 <!-- Tech Stack -->
 <details>
-  <summary>𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 🔧</summary>
+  <summary>𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈🌱</summary>
 
   <br>
 
