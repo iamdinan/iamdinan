@@ -19,7 +19,7 @@
 
 <!-- Tech Stack -->
 <details>
-  <summary>𝑺𝒕𝒂𝒄𝒌 🔧</summary>
+  <summary>𝑭𝒂𝒎𝒊𝒍𝒊𝒂𝒓 𝑾𝒊𝒕𝒉 🌱</summary>
 
   <br>
 
