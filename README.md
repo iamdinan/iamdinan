@@ -44,11 +44,13 @@
   <summary>𝑳𝒂𝒕𝒆𝒔𝒕 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 🔭</summary>
 
   <br>
+  
   &nbsp;&nbsp;**[Lumina](https://lumina-tv-tracker.vercel.app/)** &nbsp;·&nbsp; Application to track TV Show episodes and watch hours
 
   &nbsp;&nbsp;**[Sonus](https://sonus-music-recommender.vercel.app)** &nbsp;·&nbsp; Music recommender app
 
   &nbsp;&nbsp;**[Moviq](https://moviq-gtm.vercel.app/)** &nbsp;·&nbsp; Guess the movie from 3 clues — powered by TMDB
+  
 </details>
 
 <!-- GitHub Stats -->
