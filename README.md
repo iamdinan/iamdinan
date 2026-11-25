@@ -53,14 +53,33 @@
 
   <br>
 
-  &nbsp;&nbsp;**[Tuk-Tracker](https://tuk-tracker.vercel.app/)** &nbsp;·&nbsp; Three-wheeler tracker prototype for SL Police
-  
-  &nbsp;&nbsp;**[Lumina](https://lumina-tv-tracker.vercel.app/)** &nbsp;·&nbsp; Application to track TV Show episodes and watch hours
+  <table align="center">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🛺 Tuk-Tracker</h3>
+        <p>Three-wheeler tracking prototype for SL Police.</p>
+        <a href="https://tuk-tracker.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-7aa2f7?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📺 Lumina</h3>
+        <p>Track TV show episodes and total watch hours.</p>
+        <a href="https://lumina-tv-tracker.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🎧 Sonus</h3>
+        <p>Music recommender app.</p>
+        <a href="https://sonus-music-recommender.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7dcfff?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🎬 Moviq</h3>
+        <p>Guess the movie from 3 clues, powered by TMDB.</p>
+        <a href="https://moviq-gtm.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-ff9e64?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+      </td>
+    </tr>
+  </table>
 
-  &nbsp;&nbsp;**[Sonus](https://sonus-music-recommender.vercel.app)** &nbsp;·&nbsp; Music recommender app
-
-  &nbsp;&nbsp;**[Moviq](https://moviq-gtm.vercel.app/)** &nbsp;·&nbsp; Guess the movie from 3 clues — powered by TMDB
-  
 </details>
 
 <!-- GitHub Stats -->
