@@ -54,6 +54,7 @@
   <br>
 
 <p>
+  <a href="https://slsea-api.onrender.com/api/v1.0/docs"><img src="https://img.shields.io/badge/SOLAR--API-%E2%86%97-e0af68?style=for-the-badge&labelColor=1a1b26" alt="SOLAR-API" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://tuk-tracker.vercel.app/"><img src="https://img.shields.io/badge/Tuk--Tracker-%E2%86%97-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Tuk-Tracker" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://lumina-tv-tracker.vercel.app/"><img src="https://img.shields.io/badge/Lumina-%E2%86%97-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="Lumina" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://sonus-music-recommender.vercel.app"><img src="https://img.shields.io/badge/Sonus-%E2%86%97-7dcfff?style=for-the-badge&labelColor=1a1b26" alt="Sonus" /></a>&nbsp;&nbsp;&nbsp;
