@@ -53,14 +53,13 @@
 
   <br>
 
-  <p>
-    <a href="https://tuk-tracker.vercel.app/"><img src="https://img.shields.io/badge/Tuk--Tracker-%E2%86%97-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Tuk-Tracker" /></a><br>
-    <a href="https://lumina-tv-tracker.vercel.app/"><img src="https://img.shields.io/badge/Lumina-%E2%86%97-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="Lumina" /></a><br>
-    <a href="https://sonus-music-recommender.vercel.app"><img src="https://img.shields.io/badge/Sonus-%E2%86%97-7dcfff?style=for-the-badge&labelColor=1a1b26" alt="Sonus" /></a><br>
-    <a href="https://moviq-gtm.vercel.app/"><img src="https://img.shields.io/badge/Moviq-%E2%86%97-ff9e64?style=for-the-badge&labelColor=1a1b26" alt="Moviq" /></a>
-  </p>
+  <a href="https://tuk-tracker.vercel.app/"><img src="https://img.shields.io/badge/_Tuk--Tracker_-%E2%86%97-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Tuk-Tracker" /></a><br>
+  <a href="https://lumina-tv-tracker.vercel.app/"><img src="https://img.shields.io/badge/____Lumina___-%E2%86%97-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="Lumina" /></a><br>
+  <a href="https://sonus-music-recommender.vercel.app"><img src="https://img.shields.io/badge/____Sonus____-%E2%86%97-7dcfff?style=for-the-badge&labelColor=1a1b26" alt="Sonus" /></a><br>
+  <a href="https://moviq-gtm.vercel.app/"><img src="https://img.shields.io/badge/____Moviq____-%E2%86%97-ff9e64?style=for-the-badge&labelColor=1a1b26" alt="Moviq" /></a>
 
 </details>
+
 
 <!-- GitHub Stats -->
 <details>
