@@ -8,7 +8,7 @@
 <details>
   <summary>𝑷𝒖𝒓𝒑𝒐𝒔𝒆 💭</summary>
   <br>
-  <p>
+  <p align="center">
     <img src="./cat.gif" width="50%" />
   </p>
   <p align="center">
