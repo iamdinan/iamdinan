@@ -53,32 +53,12 @@
 
   <br>
 
-  <table align="center">
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🛺 Tuk-Tracker</h3>
-        <p>Three-wheeler tracking prototype for SL Police.</p>
-        <a href="https://tuk-tracker.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-7aa2f7?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
-      </td>
-      <td width="50%" valign="top">
-        <h3>📺 Lumina</h3>
-        <p>Track TV show episodes and total watch hours.</p>
-        <a href="https://lumina-tv-tracker.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🎧 Sonus</h3>
-        <p>Music recommender app.</p>
-        <a href="https://sonus-music-recommender.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7dcfff?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🎬 Moviq</h3>
-        <p>Guess the movie from 3 clues, powered by TMDB.</p>
-        <a href="https://moviq-gtm.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-ff9e64?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://tuk-tracker.vercel.app/"><img src="https://img.shields.io/badge/Tuk--Tracker-%E2%86%97-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Tuk-Tracker" /></a><br>
+    <a href="https://lumina-tv-tracker.vercel.app/"><img src="https://img.shields.io/badge/Lumina-%E2%86%97-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="Lumina" /></a><br>
+    <a href="https://sonus-music-recommender.vercel.app"><img src="https://img.shields.io/badge/Sonus-%E2%86%97-7dcfff?style=for-the-badge&labelColor=1a1b26" alt="Sonus" /></a><br>
+    <a href="https://moviq-gtm.vercel.app/"><img src="https://img.shields.io/badge/Moviq-%E2%86%97-ff9e64?style=for-the-badge&labelColor=1a1b26" alt="Moviq" /></a>
+  </p>
 
 </details>
 
